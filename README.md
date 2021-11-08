@@ -1,6 +1,6 @@
 ### Hey there! 👋
 #### **I'm Brian** 
-↳ Software Engineering Student at the University of Calgary
+↳ Software Engineering & Data Science Student at the University of Calgary
 
 ↳ Looking for new opportunities and seeking ways to develop my skillset
 
